@@ -1,4 +1,4 @@
-<h3 align="center">A passionate React developer from the netherlands</h3>
+<h3 align="center">A passionate Front-end developer from the netherlands</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 
